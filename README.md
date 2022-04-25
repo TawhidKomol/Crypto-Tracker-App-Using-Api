@@ -3,7 +3,7 @@ Crypto Tracker is an android app to track various cryptocurrency daily rates wit
 
 ## Project Screenshots
 
-![App Screenshot](https://github.com/TawhidKomol/MICalculator/blob/main/app/src/main/res/drawable/Screenshot%202022-02-09%20105826.png?raw=true)
+![App Screenshot](https://github.com/TawhidKomol/Crypto-Tracker-App-Using-Api/blob/main/app/assets/Screenshot%202022-04-26%20000824.png?raw=true)
 
 
 ##  My Profile Links
